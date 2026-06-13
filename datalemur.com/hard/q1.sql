@@ -1,3 +1,5 @@
+-- https://datalemur.com/questions/user-retention
+
 WITH active_july_users AS (
   SELECT DISTINCT user_id
   FROM user_actions

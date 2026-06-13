@@ -1,3 +1,5 @@
+-- https://datalemur.com/questions/sql-histogram-tweets
+
 SELECT
   tweet_count_per_user as tweet_bucket, 
   COUNT(user_id) as users_num

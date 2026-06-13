@@ -1,3 +1,5 @@
+-- https://datalemur.com/questions/matching-skills
+
 SELECT candidate_id
 FROM candidates
 WHERE 

@@ -1,3 +1,5 @@
+-- https://datalemur.com/questions/sql-third-transaction
+
 SELECT t.user_id, t.spend, t.transaction_date
 FROM(
   SELECT

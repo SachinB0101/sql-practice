@@ -1,3 +1,5 @@
+-- https://datalemur.com/questions/sql-second-highest-salary
+
 WITH rank_salary_table AS (
   SELECT
     *,

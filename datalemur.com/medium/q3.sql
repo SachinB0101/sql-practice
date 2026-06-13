@@ -1,3 +1,5 @@
+-- https://datalemur.com/questions/time-spent-snaps
+
 WITH time_activity_table as (
   SELECT
     user_id,
